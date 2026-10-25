@@ -1,0 +1,9 @@
+osken311/
+osken-env/
+__pycache__/
+*.pyc
+*.save
+*.save.*
+controller_backup.py
+controller_auto_backup.py
+
